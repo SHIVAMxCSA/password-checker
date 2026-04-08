@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # =======================================
-# Password Strength Checker by SHIVAMxCSA
+# Password Strength Checker by PxCSA
 # For educational purposes only
 # =======================================
 
